@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 /* nav Button */
 
-document.querySelector(".nav-btn").addEventListener("click", function () {
+document.querySelector(".nav-btn btn").addEventListener("click", function () {
   window.location.href = "download.html";
 });
 
